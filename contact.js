@@ -2,11 +2,11 @@
   const hContactArr = [
     {
       name: "yhb",
-      wechatSrc: "./images/wechat/yhb.png",
+      wechatSrc: "https://hai-webdev.github.io/cdn/images/wechat/yhb.png",
     },
     {
       name: "stt",
-      wechatSrc: "./images/wechat/stt.png",
+      wechatSrc: "https://hai-webdev.github.io/cdn/images/wechat/stt.png",
     },
   ];
   
