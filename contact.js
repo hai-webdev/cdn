@@ -1,5 +1,5 @@
-﻿// 需要设置的客服微信
-const contactArr = [
+﻿  // 需要设置的客服微信
+const hContactArr = [
   {
     name: "yhb",
     wechatSrc: "./images/wechat/yhb.png",
@@ -23,6 +23,5 @@ function setContact(contactArr){
       wechatDom[i].setAttribute("src", wechatObj.wechatSrc);
     }
 }
-
-
+setContact(hContactArr)
 
